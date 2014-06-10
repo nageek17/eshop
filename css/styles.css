@@ -16,7 +16,7 @@ a {
      
     width:960px;
     height:64px;
-    margin:0 0 47px 29px;
+    margin:auto;
     display:block;
 }
 
@@ -25,6 +25,10 @@ a {
     height: 64px;
     margin:auto;
     display:block;
+}
+
+#logo h1 {
+    margin:0;
 }
 
 #nav {
