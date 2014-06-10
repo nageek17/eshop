@@ -14,7 +14,7 @@ a {
     width:1020px;
     margin:auto;
     border:1px solid black;
-    background-color:#4aba8d;
+    background-color:#ccc;
 }
 #header {
      
@@ -35,16 +35,14 @@ a {
     width:960px;
     height:67px;
     margin:auto;
+    display:block;
     border:1px solid black;
 }
-#nav ul li a.active{
-    background-color:#99ffbb;
-}
 #nav ul li a {
-    padding:22px 34px;
-    width:104px;
+    float:left;
+    width:96px;
     height:64px;
-    background-color:#f0145a;
+    background-color:#fff;
 }
 
 
@@ -81,4 +79,14 @@ a {
     height:248px;
     margin:auto;
     border:1px solid black;
+}
+#footer_left {
+    width:280px;
+}
+#footer_left h3 {
+    margin: 0 0 22px 0;
+}
+#footer_left p {
+    margin: 0 0 20px 0;
+    height:84px;
 }
