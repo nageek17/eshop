@@ -1,5 +1,6 @@
 ul {
     list-style-type: none;
+    line-height:20px;
 }
 
 a {
@@ -36,6 +37,7 @@ a {
     height:67px;
     margin:0 30px 30px 30px;
     display:block;
+    background-color:#333f43;
 }
 
 #nav ul {
@@ -47,13 +49,43 @@ a {
     width:104px;
     height:64px;
     float:left;
+    display:block;
 }
 
 #nav ul li a {
+    color:#fff;
+}
+
+.home {
+    width:36px;
+    height:20px;
+    padding:22px 34px;
     float:left;
-    width:104px;
-    height:64px;
-    background-color:#fff;
+    background-color:#333f43;
+}
+
+.products {
+    width:36px;
+    height:20px;
+    padding:22px 34px;
+    float:left;
+    background-color:#333f43;   
+}
+
+.about_us {
+    width:66px;
+    height:20px;
+    padding:22px 34px;
+    float:left;
+    background-color:#333f43;
+}
+
+.sign_up {
+    width:56px;
+    height:20px;
+    padding:22px 34px;
+    float:left;
+    background-color:#333f43;
 }
 
 #slider {
