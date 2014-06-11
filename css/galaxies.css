@@ -40,6 +40,13 @@ a {
     background-color:#333f43;
 }
 
+#nav form {
+    border:none;
+    margin-right:0;
+    float:right;
+    margin-top:20px;
+}
+
 #nav ul {
     width:745px;
     padding:0;

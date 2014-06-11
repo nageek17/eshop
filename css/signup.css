@@ -95,12 +95,6 @@ a {
     background-color:#333f43;
 }
 
-#slider {
-    width:960px;
-    height:405px;
-    margin:0 30px 30px 30px;
-    
-}
 
 #main {
     width: 960px;
@@ -109,40 +103,37 @@ a {
 }
 
 #primary {
-    width:630px;
+    width:960px;
     float:right;
     display:block;
 }
 
-.cell_row_left .cell {
-    margin: 0 30px 30px 0;
+.first_name {
+    margin-bottom:0;
 }
 
-.cell_row_right .cell {
-    margin: 0 0 30px 0;
+.last_name {
+    margin-bottom:0;
 }
 
-.cell {
-    width:300px;
-    height:415px;
-    float:left;
+.email {
+    margin-bottom:0;
 }
 
-.cell_image {
-    width: 300px;
-    height: 300px;
+.email_again {
+    margin-bottom:0;
 }
 
-.cell_description {
-    width:300px;
-    height: 115px;
+.password {
+    margin-bottom:0;
 }
 
-#side {
-    width:300px;
-    height:500px;
-    float:left;
-    display:block;
+.password_again {
+    margin-bottom:0;
+}
+
+.sign_up_btn {
+    margin-bottom:0;
 }
 
 #footer {
